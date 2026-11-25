@@ -1,12 +1,16 @@
 ### Hi, I'm Daniel Dizon
 
-Founder of [Rejoice](https://rejoice.global). I build technology that serves the Church and keeps people in control of their own tools. My work sits where faith, AI and open source meet.
+Founder of [Rejoice](https://rejoice.global). I build technology for faith and flourishing: tools that serve the Church, and AI that people and communities can own rather than rent.
 
 **What I work on**
 
-- **Christian technology.** Software for churches, ministries and Bible study, built to be trustworthy with people's data.
-- **Sovereign AI.** Models and tooling that individuals and communities can run, inspect and own, rather than rent.
-- **Formal methods and complexity.** Learning Lean 4 and contributing machine-checked lemmas toward open questions such as P vs NP. I don't claim proofs; the proof checker decides.
+- **Sovereign AI and frontier technology.** Models, agents and infrastructure that individuals, churches and nations can run, inspect and control themselves.
+- **Christian technology.** Software for churches, ministries and Bible engagement, built to be trustworthy with people's data and faithful to its purpose.
+
+**Other interests**
+
+- Research at the edges of computing, including formal methods and machine-checked mathematics.
+- Open data and open models for underserved languages and communities.
 
 **How I work in the open**
 
@@ -19,4 +23,4 @@ Founder of [Rejoice](https://rejoice.global). I build technology that serves the
 - Website: [rejoice.global](https://rejoice.global)
 - Models and datasets: [huggingface.co/danieldizon](https://huggingface.co/danieldizon)
 
-If you're building in Christian tech or sovereign AI and want a collaborator or a reviewer, open an issue on one of my repos or reach out through Rejoice.
+If you're building sovereign AI or technology for faith and flourishing and want a collaborator or a reviewer, open an issue on one of my repos or reach out through Rejoice.
