@@ -1,10 +1,10 @@
 ### Daniel Dizon
 
-Daniel Dizon is the founder of [Rejoice](https://rejoice.global) and a founding contributor to [Always Foundation](https://alwaysfoundation.org). Since coming to faith in the Lord Jesus Christ at Easter 2025, he has built Christian technology and sovereign AI: private, privacy-preserving systems that people and churches own and control. A systems and protocol architect trained in information systems, he previously advised governments in Australia and the UK, founded machine learning SaaS start-ups, contributed to early Ethereum DeFi and privacy protocols, and founded Swell while investing across crypto and AI, before moving on in mid-2025 to build for the Church.
+Daniel Dizon is the founder of [Rejoice](https://rejoice.global) and a founding contributor to [Always Foundation](https://alwaysfoundation.org). Since coming to faith in the Lord Jesus Christ at Easter 2025, he has built Christian technology and sovereign AI: private, privacy-preserving systems that people and churches own and control. A systems and protocol architect trained in information systems, he previously advised governments in Australia and the UK, and founded machine learning SaaS start-ups and the digital assets protocol Swell, before moving on in mid-2025 to build for the Church.
 
 **Founder · Investor · Advisor**
 
-Investments include Ethena, Derive and RedStone in crypto, and Church AI and Firmus in AI.
+Investments include Church AI, Firmus, Ethena, Derive and RedStone.
 
 **Where I build**
 
@@ -19,8 +19,8 @@ Investments include Ethena, Derive and RedStone in crypto, and Church AI and Fir
 
 **How I build**
 
-- **Systems architecture.** Distributed systems and consensus mechanisms.
-- **Incentive design.** Crypto-economic and mechanism design.
+- **Systems architecture.** Distributed systems and protocols.
+- **Incentive design.** Mechanism design that rewards the behaviour a system needs.
 - **Adversarial engineering.** Trust-minimised design that assumes some participants will misbehave.
 - **Anti-fragility.** Systems that get stronger under stress rather than breaking.
 
