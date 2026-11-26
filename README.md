@@ -2,7 +2,7 @@
 
 Daniel Dizon is building technology for faith and flourishing.
 
-A systems and protocol architect trained in information systems, he has worked at the frontier of technology throughout his career. He began as an adviser to governments in Australia and the UK, founded machine learning SaaS start-ups, and was a researcher and contributor in early Ethereum DeFi and privacy-preserving protocols before founding the staking protocol Swell, investing across crypto and AI along the way.
+A systems and protocol architect trained in information systems, he has worked at the frontier of technology throughout his career. He began as an adviser to governments in Australia and the UK, founded machine learning SaaS start-ups, and was a researcher and contributor in early Ethereum DeFi and privacy-preserving protocols before founding Swell, a staking protocol that brought Bitcoin liquid restaking to Ethereum, investing across crypto and AI along the way.
 
 At Easter 2025 he came to faith in the Lord Jesus Christ, and in mid-2025 he moved on to build for the Church full time. He founded [Rejoice](https://rejoice.global), a Christian technology company that is an investor, operator and builder for the faith and flourishing ecosystem. He leads [Multitude](https://trymultitude.com), a project incubated by Rejoice, and is a founding contributor to [Always Foundation](https://alwaysfoundation.org). Across this work he builds sovereign, local-first and privacy-preserving systems that people and churches can run, inspect and control.
 
