@@ -11,10 +11,11 @@ Daniel Dizon is the founder of [Rejoice](https://rejoice.global) and a founding 
 
 - **Sovereign AI and frontier technology.** Models, agents and infrastructure that individuals, churches and nations can run, inspect and control themselves.
 - **Christian technology.** Software for churches, ministries and Bible engagement, built to be trustworthy with people's data and faithful to its purpose.
+- **Privacy, permissionlessness and censorship resistance.** Tools that let people and churches gather, give and speak freely, wherever they are.
 
 **Other interests**
 
-- Research at the frontier of computing and AI.
+- Systems and protocol architecture, mechanism design and game theory.
 - Open data and open models for underserved languages and communities.
 
 **How I work in the open**
