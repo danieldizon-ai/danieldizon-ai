@@ -17,20 +17,7 @@ Investments include Church AI, Firmus, Ethena, Derive and RedStone.
 - **Frontier technology and sovereign AI.** Private, self-hosted AI systems on open models that people, churches and communities can run, inspect and control: privacy-preserving, permissionless and censorship-resistant.
 - **Advancing the gospel through frontier technology.** Putting the best of new technology to work carrying the true gospel of Jesus Christ further, to every nation and language.
 
-**How I build**
-
-- **Systems architecture.** Distributed systems and protocols.
-- **Incentive design.** Mechanism design that rewards the behaviour a system needs.
-- **Adversarial engineering.** Trust-minimised design that assumes some participants will misbehave.
-- **Anti-fragility.** Systems that get stronger under stress rather than breaking.
-
-**How I work in the open**
-
-- Small, reviewed pull requests over large unreviewed drops.
-- Tests with every change, and honest changelogs.
-- AI-assisted work is disclosed in the PR, and I stand behind every line I submit.
-
-**Elsewhere**
+**Links**
 
 - Website: [danieldizon.ai](https://danieldizon.ai)
 - LinkedIn: [linkedin.com/in/daniel-dizon-ai](https://www.linkedin.com/in/daniel-dizon-ai)
