@@ -1,6 +1,6 @@
 ### Daniel Dizon
 
-Daniel Dizon is the founder of [Rejoice](https://rejoice.global) and a founding contributor to [Always Foundation](https://alwaysfoundation.org). Since coming to faith in the Lord Jesus Christ at Easter 2025, he has built Christian technology and sovereign AI: private, privacy-preserving systems that people and churches own and control. A systems and protocol architect trained in information systems, he previously advised governments in Australia and the UK, and founded machine learning SaaS start-ups and the digital assets protocol Swell, before moving on in mid-2025 to build for the Church.
+Daniel Dizon is the founder of [Rejoice](https://rejoice.global) and a founding contributor to [Always Foundation](https://alwaysfoundation.org). Since coming to faith in the Lord Jesus Christ at Easter 2025, he has been building technology, software and AI for the Church: private, privacy-preserving systems that people and churches own and control. A systems and protocol architect trained in information systems, he previously advised governments in Australia and the UK, and founded machine learning SaaS start-ups and the digital assets protocol Swell, before moving on in mid-2025 to build for the Church.
 
 **Founder · Investor · Advisor**
 
