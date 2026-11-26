@@ -2,12 +2,12 @@
 
 Daniel Dizon is the founder of [Rejoice](https://rejoice.global) and a founding contributor to [Always Foundation](https://alwaysfoundation.org). Since Easter 2025 he has built technology for the Church: sovereign AI and Christian tools that churches and ministries own rather than rent, to carry the gospel of Jesus Christ further. He has always worked at the frontier of technology.
 
-Before that I worked across crypto, a machine learning SaaS company and government technology. That work taught me how frontier tools are built and governed. Now it all serves one purpose: faith and flourishing.
+Earlier: crypto, machine learning SaaS and government technology.
 
 **Where I build**
 
-- **[Always Foundation](https://alwaysfoundation.org)** is a 501(c)(3) nonprofit. In its own words: *"Free, open, shared evangelism technology that connects churches and ministries, so no one who says yes to Jesus walks alone."* Its code is open source under Apache 2.0. Repos: [always-platform](https://github.com/alwaysfoundation/always-platform), [always-website](https://github.com/alwaysfoundation/always-website).
-- **[Rejoice](https://rejoice.global)** is a Christian technology company building apps for churches, creators and families. Rejoice is a separate company that builds on Always under the same open licence and terms as every other builder.
+- **[Rejoice](https://rejoice.global)** is a Christian technology company building apps for churches, creators and families. It builds on Always under the same open licence and terms as every other builder.
+- **[Always Foundation](https://alwaysfoundation.org)**, where I'm a founding contributor, is a separate 501(c)(3) nonprofit. In its own words: *"Free, open, shared evangelism technology that connects churches and ministries, so no one who says yes to Jesus walks alone."* Its code is open source under Apache 2.0. Repos: [always-platform](https://github.com/alwaysfoundation/always-platform), [always-website](https://github.com/alwaysfoundation/always-website).
 
 **What I work on**
 
