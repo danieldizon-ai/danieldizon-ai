@@ -1,8 +1,8 @@
-### Hi, I'm Daniel Dizon
+### Daniel Dizon
 
-Founder of [Rejoice](https://rejoice.global) · Founding contributor to [Always Foundation](https://alwaysfoundation.org)
+Daniel Dizon is the founder of [Rejoice](https://rejoice.global) and a founding contributor to [Always Foundation](https://alwaysfoundation.org). He builds sovereign AI and Christian technology to advance the gospel of Jesus Christ.
 
-Building sovereign AI and Christian technology to advance the gospel of Jesus Christ. I build technology for faith and flourishing: tools that serve the Church, and AI that people and communities can own rather than rent.
+I build technology for faith and flourishing: tools that serve the Church, and AI that people and communities can own rather than rent.
 
 **Where I build**
 
