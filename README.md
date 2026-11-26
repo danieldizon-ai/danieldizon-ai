@@ -33,6 +33,7 @@ Investments include Ethena, Derive and RedStone in crypto, and Church AI and Fir
 **Elsewhere**
 
 - Website: [danieldizon.ai](https://danieldizon.ai)
+- LinkedIn: [linkedin.com/in/daniel-dizon-ai](https://www.linkedin.com/in/daniel-dizon-ai)
 - Rejoice: [rejoice.global](https://rejoice.global)
 - Always Foundation: [alwaysfoundation.org](https://alwaysfoundation.org)
 
