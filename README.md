@@ -32,8 +32,8 @@ Investments include Ethena, Derive and RedStone in crypto, and Church AI and Fir
 
 **Elsewhere**
 
+- Website: [danieldizon.ai](https://danieldizon.ai)
 - Rejoice: [rejoice.global](https://rejoice.global)
 - Always Foundation: [alwaysfoundation.org](https://alwaysfoundation.org)
-- Models and datasets: [huggingface.co/danieldizon](https://huggingface.co/danieldizon)
 
 If you're building sovereign AI or technology for faith and flourishing and want a collaborator or a reviewer, open an issue on one of my repos or reach out through Rejoice.
