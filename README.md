@@ -11,6 +11,8 @@ At Easter 2025 he came to faith in the Lord Jesus Christ, and in mid-2025 he mov
 **What I'm building**
 
 - **[Always Platform](https://github.com/alwaysfoundation/always-platform)**: open, consent-first infrastructure that connects churches and ministries, so no one who says yes to Jesus walks alone. Consent is checked on every data movement and fails closed, personal data is encrypted before it reaches Postgres, every table has row-level security, and the handoff format is an open standard (Always Pathway). TypeScript, Hono, Postgres. Apache 2.0.
+- **[pathway-standard](https://github.com/DanielDizon-AI/pathway-standard)**: implementer specification, strict JSON Schema and reference validator for the Always Pathway handoff format.
+- **[pprl](https://github.com/DanielDizon-AI/pprl)**: privacy-preserving record linkage with keyed Bloom filters, threat model and evaluation.
 - **[Multitude](https://trymultitude.com)**: one memory for every AI you use. ChatGPT, Claude, Gemini, Cursor and Claude Code remember the same things through MCP, backed by an open source memory server ([trymultitude/multitude-memory](https://github.com/trymultitude/multitude-memory)).
 - **[Rejoice](https://rejoice.global)**: invests in, operates and builds for the faith and flourishing ecosystem, including apps for churches, creators and families built on Always under the same open licence and terms as every other builder.
 - **Sovereign AI**: private AI on open models that runs on people's own devices or a church's own servers, with nothing sent to a third party by default.
