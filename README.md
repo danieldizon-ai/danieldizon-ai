@@ -29,5 +29,7 @@ Technical focus: distributed systems and protocol design, encrypted and privacy-
 - LinkedIn: [linkedin.com/in/daniel-dizon-ai](https://www.linkedin.com/in/daniel-dizon-ai)
 - Rejoice: [rejoice.global](https://rejoice.global)
 - Always Foundation: [alwaysfoundation.org](https://alwaysfoundation.org)
+- Multitude: [trymultitude.com](https://trymultitude.com)
+- Crunchbase: [daniel-dizon-b068](https://www.crunchbase.com/person/daniel-dizon-b068)
 
 If you're building sovereign AI or technology for faith and flourishing and want a collaborator or a reviewer, open an issue on one of my repos or reach out through Rejoice.
