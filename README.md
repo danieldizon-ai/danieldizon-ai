@@ -4,14 +4,15 @@ Daniel Dizon is building technology for faith and flourishing.
 
 A systems and protocol architect trained in information systems, he has worked at the frontier of technology throughout his career. He began as an adviser to governments in Australia and the UK, founded machine learning SaaS start-ups, and was a researcher and contributor in early Ethereum DeFi and privacy-preserving protocols before founding the staking protocol Swell, investing across crypto and AI along the way.
 
-At Easter 2025 he came to faith in the Lord Jesus Christ, and in mid-2025 he moved on to build for the Church full time. He founded [Rejoice](https://rejoice.global) and is a founding contributor to [Always Foundation](https://alwaysfoundation.org), where he builds sovereign, local-first and privacy-preserving systems that people and churches can run, inspect and control.
+At Easter 2025 he came to faith in the Lord Jesus Christ, and in mid-2025 he moved on to build for the Church full time. He founded [Rejoice](https://rejoice.global), a Christian technology company that is an investor, operator and builder for the faith and flourishing ecosystem. He leads [Multitude](https://trymultitude.com), a project incubated by Rejoice, and is a founding contributor to [Always Foundation](https://alwaysfoundation.org). Across this work he builds sovereign, local-first and privacy-preserving systems that people and churches can run, inspect and control.
 
 **Founder · Investor · Advisor**
 
 **What I'm building**
 
 - **[Always Platform](https://github.com/alwaysfoundation/always-platform)**: open, consent-first infrastructure that connects churches and ministries, so no one who says yes to Jesus walks alone. Consent is checked on every data movement and fails closed, personal data is encrypted before it reaches Postgres, every table has row-level security, and the handoff format is an open standard (Always Pathway). TypeScript, Hono, Postgres. Apache 2.0.
-- **[Rejoice](https://rejoice.global)**: apps for churches, creators and families, built on Always under the same open licence and terms as every other builder.
+- **[Multitude](https://trymultitude.com)**: one memory for every AI you use. ChatGPT, Claude, Gemini, Cursor and Claude Code remember the same things through MCP, backed by an open source memory server ([trymultitude/multitude-memory](https://github.com/trymultitude/multitude-memory)).
+- **[Rejoice](https://rejoice.global)**: invests in, operates and builds for the faith and flourishing ecosystem, including apps for churches, creators and families built on Always under the same open licence and terms as every other builder.
 - **Sovereign AI**: private AI on open models that runs on people's own devices or a church's own servers, with nothing sent to a third party by default.
 
 Technical focus: distributed systems and protocol design, encrypted and privacy-preserving data systems, local-first and self-hosted AI, and incentive design.
