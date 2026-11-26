@@ -1,15 +1,18 @@
 ### Daniel Dizon
 
-Daniel Dizon is the founder of [Rejoice](https://rejoice.global) and a founding contributor to [Always Foundation](https://alwaysfoundation.org). Since coming to faith in the Lord Jesus Christ at Easter 2025, he has been building technology, software and AI for the Church: private, privacy-preserving systems that people and churches own and control. A systems and protocol architect trained in information systems, he previously advised governments in Australia and the UK, and founded machine learning SaaS start-ups and the digital assets protocol Swell, before moving on in mid-2025 to build for the Church.
+Daniel Dizon is building technology for faith and flourishing.
+
+He founded [Rejoice](https://rejoice.global) and is a founding contributor to [Always Foundation](https://alwaysfoundation.org). Since coming to faith in the Lord Jesus Christ at Easter 2025, he has been building software and AI for the Church: sovereign, local-first and privacy-preserving systems that people and churches can run, inspect and control. A systems and protocol architect trained in information systems, he previously advised governments in Australia and the UK, founded machine learning SaaS start-ups, and worked on early Ethereum DeFi and privacy protocols before founding the staking protocol Swell.
 
 **Founder · Investor · Advisor**
 
-Investments include Church AI, Firmus, Ethena, Derive and RedStone.
+**What I'm building**
 
-**Where I build**
+- **[Always Platform](https://github.com/alwaysfoundation/always-platform)**: open, consent-first infrastructure that connects churches and ministries, so no one who says yes to Jesus walks alone. Consent is checked on every data movement and fails closed, personal data is encrypted before it reaches Postgres, every table has row-level security, and the handoff format is an open standard (Always Pathway). TypeScript, Hono, Postgres. Apache 2.0.
+- **[Rejoice](https://rejoice.global)**: apps for churches, creators and families, built on Always under the same open licence and terms as every other builder.
+- **Sovereign AI**: private AI on open models that runs on people's own devices or a church's own servers, with nothing sent to a third party by default.
 
-- **[Rejoice](https://rejoice.global)** is a Christian technology company building apps for churches, creators and families. It builds on Always under the same open licence and terms as every other builder.
-- **[Always Foundation](https://alwaysfoundation.org)**, where I'm a founding contributor, is a separate 501(c)(3) nonprofit. In its own words: *"Free, open, shared evangelism technology that connects churches and ministries, so no one who says yes to Jesus walks alone."* Its code is open source under Apache 2.0. Repo: [always-platform](https://github.com/alwaysfoundation/always-platform).
+Technical focus: distributed systems and protocol design, encrypted and privacy-preserving data systems, local-first and self-hosted AI, and incentive design.
 
 **Areas of interest**
 
