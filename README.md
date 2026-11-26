@@ -7,7 +7,7 @@ Daniel Dizon is the founder of [Rejoice](https://rejoice.global) and a founding 
 - **[Rejoice](https://rejoice.global)** is a Christian technology company building apps for churches, creators and families. It builds on Always under the same open licence and terms as every other builder.
 - **[Always Foundation](https://alwaysfoundation.org)**, where I'm a founding contributor, is a separate 501(c)(3) nonprofit. In its own words: *"Free, open, shared evangelism technology that connects churches and ministries, so no one who says yes to Jesus walks alone."* Its code is open source under Apache 2.0. Repos: [always-platform](https://github.com/alwaysfoundation/always-platform), [always-website](https://github.com/alwaysfoundation/always-website).
 
-**Founder · Angel investor · Advisor**
+**Founder · Investor · Advisor**
 
 **Areas of interest**
 
