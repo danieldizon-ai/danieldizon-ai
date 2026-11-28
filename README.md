@@ -20,7 +20,7 @@ Technical focus: distributed systems and protocol design, encrypted and privacy-
 
 **Community**
 
-Contributor to the Coalition for Secure AI (agentic systems security), member of the W3C AI Agent Memory Interoperability Community Group, and participant in MLCommons AI Risk & Reliability.
+Contributor to the Coalition for Secure AI (agentic systems security), member of the W3C AI Agent Memory Interoperability Community Group, and participant in MLCommons AI Risk & Reliability and the IEEE P3709 Agentic AI working group.
 
 **Areas of interest**
 
