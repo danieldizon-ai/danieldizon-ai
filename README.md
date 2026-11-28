@@ -18,6 +18,10 @@ At Easter 2025 he came to faith in the Lord Jesus Christ, and in mid-2025 he mov
 
 Technical focus: distributed systems and protocol design, encrypted and privacy-preserving data systems, local-first and self-hosted AI, and incentive design.
 
+**Community**
+
+Contributor to the Coalition for Secure AI (agentic systems security), member of the W3C AI Agent Memory Interoperability Community Group, and participant in MLCommons AI Risk & Reliability.
+
 **Areas of interest**
 
 - **Christian technology for the Church.** Software for churches, ministries and Bible engagement, built to be trustworthy with people's data and faithful to its purpose.
