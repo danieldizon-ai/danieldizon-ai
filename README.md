@@ -4,7 +4,7 @@ Daniel Dizon is the founder of Rejoice, a Christian technology company that buil
 
 A systems and protocol architect trained in information systems, he has worked at the frontier of technology throughout his career. He began as an adviser to governments in Australia and the UK, founded machine learning SaaS start-ups, and was a researcher and contributor in early Ethereum DeFi and privacy-preserving protocols before founding the staking protocol Swell, investing across crypto and AI along the way.
 
-At Easter 2025 he came to faith in the Lord Jesus Christ, and in mid-2025 he moved on to build for the Church full time. He founded [Rejoice](https://rejoice.global), through which he incubated [Multitude AI](https://trymultitude.com), which he leads, and he is a founding contributor to [Always Foundation](https://alwaysfoundation.org), whose open, free tools help people on their way to faith find a local church. Across this work he builds sovereign, local-first and privacy-preserving systems that people and churches can run, inspect and control.
+At Easter 2025 he came to faith in the Lord Jesus Christ, and in mid-2025 he moved on to build for the Church full time. He founded [Rejoice](https://rejoice.global), through which he incubated [Multitude AI](https://trymultitude.com), which he leads, and he is a founding contributor to [Always Foundation](https://alwaysfoundation.org), whose open, free tools help people on their way to faith find a local church. Across this work he builds sovereign, local-first and privacy-preserving systems that people and churches can run, inspect and control. He contributes to the Coalition for Secure AI, W3C, MLCommons and the IEEE Agentic AI Working Group.
 
 **Founder · Investor · Advisor**
 
@@ -17,10 +17,6 @@ At Easter 2025 he came to faith in the Lord Jesus Christ, and in mid-2025 he mov
 - **[Rejoice](https://rejoice.global)**: builds, backs and incubates companies serving Christians and the Church. It runs a growing portfolio of apps on a shared technology stack, built on Always under the same open licence and terms as every other builder, and invests in founders building across the ecosystem.
 
 Technical focus: distributed systems and protocol design, encrypted and privacy-preserving data systems, local-first and self-hosted AI, and incentive design.
-
-**Community**
-
-Contributor to the Coalition for Secure AI (agentic systems security), member of the W3C AI Agent Memory Interoperability Community Group, and participant in MLCommons AI Risk & Reliability and the IEEE Agentic AI Working Group.
 
 **Areas of interest**
 
